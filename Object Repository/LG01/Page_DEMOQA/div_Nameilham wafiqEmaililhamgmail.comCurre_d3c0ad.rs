@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nameilham wafiqEmaililhamgmail.comCurre_d3c0ad</name>
+   <tag></tag>
+   <elementGuidId>1138f395-9971-43db-ab84-8a4552f77daa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.border.col-md-12.col-sm-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='output']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9e380b0-4924-4ab0-8c7e-073377ac3da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border col-md-12 col-sm-12</value>
+      <webElementGuid>357916ea-ad18-4725-be7e-0507ef57d3c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name:ilham wafiqEmail:ilham@gmail.comCurrent Address :kudus,central java, indonesia Permananet Address :kudus</value>
+      <webElementGuid>fcdba1f9-691b-49a8-9f5f-082857136d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;output&quot;)/div[@class=&quot;border col-md-12 col-sm-12&quot;]</value>
+      <webElementGuid>5d7f1324-89b3-4094-bee1-67776384c80c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='output']/div</value>
+      <webElementGuid>4deb9bd9-67fa-44d7-9e1b-2e9b19042c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::div[2]</value>
+      <webElementGuid>bcf149da-4148-4cda-905d-1e8fb9f77179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Address'])[1]/following::div[5]</value>
+      <webElementGuid>da2f687f-efb2-48d9-8094-bb1ad19e5121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::div[13]</value>
+      <webElementGuid>1b9d646d-fc39-46a7-bbe5-102c8a7386f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[6]/div</value>
+      <webElementGuid>8664c17b-27d0-49f0-8e9c-bff7bf5c9376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Name:ilham wafiqEmail:ilham@gmail.comCurrent Address :kudus,central java, indonesia Permananet Address :kudus' or . = 'Name:ilham wafiqEmail:ilham@gmail.comCurrent Address :kudus,central java, indonesia Permananet Address :kudus')]</value>
+      <webElementGuid>691fda80-f95f-4e9f-af02-1f3c153335eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

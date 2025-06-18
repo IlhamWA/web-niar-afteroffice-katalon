@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05 - Upload and Download</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>adc4e9b9-e4eb-40ca-a4b6-ad8d29610314</testCaseGuid>
+</TestCaseEntity>
